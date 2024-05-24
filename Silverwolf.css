@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+}
+
+.Silverwolf{
+    float: left;
+    display: block;
+}
+
+.dialogue{
+    float: left;
+    display: block;
+    color: yellow;
+    margin: 100px;
+    font-size: 150%;
+}
+
+.pixelify-sans-dialogue{
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+

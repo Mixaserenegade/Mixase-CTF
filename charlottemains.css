@@ -1,0 +1,17 @@
+nav{
+	border: 1px solid blue;
+	border-radius: 5px;
+	background-color: violet;
+	margin: 5px;
+}
+
+body { 
+    background-color:  lightcoral; 
+}
+
+.navlink{
+	display: inline-block;
+	margin-left: 10%;
+}
+
+
